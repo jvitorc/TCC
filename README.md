@@ -1,5 +1,4 @@
-# TCC
-Abordagem de Detecção e Identificação de Intrusão baseada em Redes Neurais no contexto de Internet das Coisas
+# Abordagem de Detecção e Identificação de Intrusão baseada em Redes Neurais no contexto de Internet das Coisas
 
 Internet das Coisas (IoT) é um paradigma presente em aplicações de diversas áreas,
 tais como área médica, agricultura, automação residencial, dentre outras. Atualmente
